@@ -1,11 +1,11 @@
 module github.com/fayusohenson/talos-kms-tang
 
-go 1.24.6
+go 1.25.0
 
 require (
 	github.com/anatol/clevis.go v0.0.0-20251105050026-c2c7ddab8f14
 	github.com/siderolabs/kms-client v0.2.0
-	golang.org/x/sync v0.19.0
+	golang.org/x/sync v0.20.0
 	google.golang.org/grpc v1.80.0
 )
 
